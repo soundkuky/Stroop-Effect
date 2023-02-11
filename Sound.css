@@ -1,0 +1,74 @@
+body{
+    margin : 0;
+}
+
+header{
+    background-color: rgb(25, 40, 195);
+    color:white;
+    margin:0px;
+    padding: 75px;
+    text-align: center;
+}
+
+#HCA{
+    position: absolute;
+    top:0px;
+    left:0px;
+    height: 150px;
+    margin: 0;
+    padding: 0;
+}
+
+#help{
+    position: absolute;
+    top:25px;
+    right:50px;
+    height: 100px;
+    margin: 0;
+    padding: 0;
+}
+
+#programme{
+    margin:0;
+    padding:0;
+    font-size: 100px;
+    text-align: center;
+}
+
+#reroll{
+    display:block;
+    margin:auto;
+}
+
+#menu{
+    margin: auto;
+}
+
+#menu_img{
+    height: 75px;
+    width: 75px;
+}
+
+#small{
+    position:absolute;
+    left: 45%;
+    top: 10px;
+    font-size: 40px;
+}
+
+#small2{
+    position:absolute;
+    left: 49%;
+    font-size: 20px;
+}
+
+#Sori{
+    position:absolute;
+    top: 10px;
+    left:170px;
+}
+
+#Jisoo{
+    position:absolute;
+    left:170px;
+}
